@@ -35,7 +35,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\libs\orleans\src\Orleans.CodeGenerator\Orleans.CodeGenerator.csproj" OutputItemType="Analyzer" ReferenceOutputAssembly="false" />
-    <ProjectReference Include="..\libs\orleans\test\TesterInternal\TesterInternal.csproj" />
     <ProjectReference Include="..\Orleans.Providers.MongoDB\Orleans.Providers.MongoDB.csproj" />
   </ItemGroup>
 </Project>
